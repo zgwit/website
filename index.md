@@ -4,7 +4,7 @@
 
 ## 项目研究
 
-- [物联大师，通用的物联网采集&控制系统](https://iot-master)
+- [物联大师，通用的物联网采集&控制系统](https://iot-master.com)
 - [LetsProxy，HTTPS反向代理服务器，可以自动获取免费证书](https://github.com/zgwit/LetsProxy)
 - [BeeQ，MQTT服务器](https://github.com/zgwit/beeq)
 - 社区智慧养老预警平台（待开放）
@@ -20,7 +20,7 @@
 
 ![微信](wx.jpg)
 
-## 人员招聘
+## 诚聘英才
 
 - 技术研究员 5名
   - 计算机科班出身，对计算机理论有深刻的理解
