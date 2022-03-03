@@ -4,9 +4,11 @@
 
 ## 项目研究
 
-- [物联大师](https://iot-master)
-- [MQTT Broker](https://github.com/zgwit/beeq)
-- 社区智慧养老预警平台
+- [物联大师，通用的物联网采集&控制系统](https://iot-master)
+- [LetsProxy，HTTPS反向代理服务器，可以自动获取免费证书](https://github.com/zgwit/LetsProxy)
+- [BeeQ，MQTT服务器](https://github.com/zgwit/beeq)
+- 社区智慧养老预警平台（待开放）
+  
 
 ## 联系我们
 
@@ -18,15 +20,20 @@
 
 ![微信](wx.jpg)
 
-## 招聘
+## 人员招聘
 
 - 技术研究员 5名
   - 计算机科班出身，对计算机理论有深刻的理解
   - 熟悉C/C++编程语言
   - 接受应届毕业生
 
+
 - 市场推广 2名
     - 五官端正，谈吐大方
-    - 有物联网行业经验或资源优先
+    - 有物联网行业经验或资源者优先
+    - 项目提成30%起
+
+
+
 
 [苏ICP备16034667号-1](http://beian.miit.gov.cn/)
